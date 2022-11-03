@@ -9,9 +9,10 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[RSoptSC](https://github.com/mkarikom/RSoptSC)__ -[R]- RSoptSC enables cell-cell communication and lineage inference for scRNA-seq data.
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
 - __[CytoTalk](https://github.com/tanlabcode/CytoTalk)__ -[R]- CytoTalk algorithm is for de novo construction of a signaling network between two cell types using single-cell transcriptomics data.
-
-
-
+- __[CellPhoneDB](https://github.com/Teichlab/cellphonedb)__ -[python]- CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
+- __[NicheNet](https://github.com/saeyslab/nichenetr)__ -[R]- NicheNet can study intercellular communication from a computational perspective. NicheNet uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths.
+- __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
+- __[CCCExplorer](https://github.com/methodistsmab/CCCExplorer)__ -[Java]- CCCExplorer is a java-based software that predicts and visualizes the gene signaling network to aid research on crosstalk identification in the tumor microenvironment. 
 
 
 ### Computational tools based on spatially resolved transcriptomic data
@@ -21,3 +22,5 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[CellPhoneDB](https://github.com/ventolab/CellphoneDB)__ -[python]- CellPhoneDB allows the incorporation of spatial information of the cells to define possible pairs of interacting cells (i.e. pairs of clusters sharing/coexisting in a microenvironment).
 - __[CCPLS](https://github.com/bioinfo-tsukuba/CCPLS)__ -[R]- CCPLS (Cell-Cell communications analysis by Partial Least Square regression modeling) is a statistical framework for identifying cell-cell communications as the effects of multiple neighboring cell types on cell-to-cell expression variability of HVGs, based on the spatial transcriptome data.
 - __[ncem](https://github.com/theislab/ncem)__ -[python]- ncem can learn cell communication from spatial graphs of cells.
+- __[GCNG](https://github.com/xiaoyeye/GCNG)__ -[python]- GCNG uses graph convolutional neural network and spaital transcriptomics data to infer cell-cell interactions.
+
