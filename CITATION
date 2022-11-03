@@ -4,9 +4,11 @@ citEntry(
   title    = "Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics",
   author = personList(
              as.person("Xin Shao"),
+             as.person("Chengyu Li"),
+             as.person("Haiwen Huang"),
              as.person("Xiaohui Fan")
              ),
   year     = "2022",
-  textVersion = paste("Shao, X. and Fan, X. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022)."
+  textVersion = paste("Shao, X., et al. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022)."
   )
 )
