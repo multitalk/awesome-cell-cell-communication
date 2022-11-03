@@ -1,6 +1,6 @@
 # Cell-cell communication
 
-[![R-python](https://img.shields.io/badge/R%2Fpython-CMD--check-brightgreen?logo=github)](https://github.com/shaoxin0801/Cell-cell-communication/actions) [ ![jupyter](https://img.shields.io/badge/Computational--tools-cell--cell%20communication-yellow?logo=jupyter)](https://github.com/shaoxin0801/Cell-cell-communication/tree/main/method) [![dockerhub-container](https://img.shields.io/badge/dockerhub-container-yellowgreen?logo=docker)](https://hub.docker.com/repository/docker/shaoxin0801/cell-cell-communication) 
+[![R-python](https://img.shields.io/badge/R%2Fpython-CMD--check-brightgreen?logo=github)](https://github.com/shaoxin0801/Cell-cell-communication/actions) [![jupyter](https://img.shields.io/badge/Computational--tools-cell--cell%20communication-yellow?logo=jupyter)](https://github.com/shaoxin0801/Cell-cell-communication/tree/main/method)[![dockerhub-container](https://img.shields.io/badge/dockerhub-container-yellowgreen?logo=docker)](https://hub.docker.com/repository/docker/shaoxin0801/cell-cell-communication) 
 
 Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. 
 
