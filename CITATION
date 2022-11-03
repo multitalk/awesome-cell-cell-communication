@@ -1,13 +1,11 @@
 citHeader("Please cite Shao X (2022)")
 
 citEntry(
-  entry    = "NA",
   title    = "Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics",
   author = personList(
              as.person("Xin Shao"),
              as.person("Xiaohui Fan")
              ),
-  journal  = "NA",
   year     = "2022",
   textVersion = paste("Shao, X. and Fan, X. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022)."
   )
