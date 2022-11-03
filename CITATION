@@ -1,24 +1,14 @@
-citHeader("Please cite Shao X (2022) for using miRTalk")
+citHeader("Please cite Shao X (2022)")
 
 citEntry(
-  entry    = "Article",
-  title    = "Knowledge-graph-based cell-cell communication inference for spatially resolved transcriptomic data with SpaTalk",
+  entry    = "NA",
+  title    = "Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics",
   author = personList(
              as.person("Xin Shao"),
-             as.person("Chengyu Li"),
-             as.person("Haihong Yang"),
-             as.person("Xiaoyan Lu"),
-             as.person("Jie Liao"),
-             as.person("Jingyang Qian"),
-             as.person("Kai Wang"),
-             as.person("Junyun Cheng"),
-             as.person("Penghui Yang"),
-             as.person("Huajun Chen"),
-             as.person("Xiao Xu"),
              as.person("Xiaohui Fan")
              ),
-  journal  = "Nature Communications",
+  journal  = "NA",
   year     = "2022",
-  textVersion = paste("Shao, X., Li, C., Yang, H. et al. Knowledge-graph-based cell-cell communication inference for spatially resolved transcriptomic data with SpaTalk. Nat Commun 13, 4429 (2022). https://doi.org/10.1038/s41467-022-32111-8"
+  textVersion = paste("Shao, X. and Fan, X. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022)."
   )
 )
