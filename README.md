@@ -5,7 +5,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[CellChat](https://github.com/sqjin/CellChat)__ -[R]- CellChat enables inference and analysis of cell-cell communication for systematically detecting dysregulated cell-cell communication across biological conditions.
 - __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data
 - __[CellCall](https://github.com/ShellyCoder/cellcall)__ -[R]- CellCall integrates paired ligand-receptor and transcription factor activities for cell-cell communication inference.
-- __[cell2cell](https://github.com/ShellyCoder/cellcall)__ -[python]- cell2cell is a user-friendly tool to infer cell-cell interactions and communication from gene expression of interacting proteins.
+- __[cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- cell2cell is a user-friendly tool to infer cell-cell interactions and communication from gene expression of interacting proteins.
 - __[RSoptSC](https://github.com/mkarikom/RSoptSC)__ -[R]- RSoptSC enables cell-cell communication and lineage inference for scRNA-seq data.
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
 - __[CytoTalk](https://github.com/tanlabcode/CytoTalk)__ -[R]- CytoTalk algorithm is for de novo construction of a signaling network between two cell types using single-cell transcriptomics data.
