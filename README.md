@@ -1,8 +1,8 @@
 # Cell-cell communication
-Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution if you have an update.
 
 [![dockerhub-container](https://img.shields.io/badge/dockerhub-container-yellowgreen?logo=docker)](https://hub.docker.com/repository/docker/shaoxin0801/cell-cell-communication)
 
+Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. Please Cite us by "Shao, X. and Fan, X. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022)".
 
 <img src='https://github.com/shaoxin0801/Cell-cell-communication/blob/main/img/Cell-cell%20communication.png'>
 
