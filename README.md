@@ -1,4 +1,4 @@
-# Cell-cell-communication
+# Cell-cell communication
 Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution if you have an update.
 
 ### Computational tools based on single-cell transcriptomic data
@@ -13,7 +13,14 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[NicheNet](https://github.com/saeyslab/nichenetr)__ -[R]- NicheNet can study intercellular communication from a computational perspective. NicheNet uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
 - __[CCCExplorer](https://github.com/methodistsmab/CCCExplorer)__ -[Java]- CCCExplorer is a java-based software that predicts and visualizes the gene signaling network to aid research on crosstalk identification in the tumor microenvironment. 
-
+- __[scMLnet](https://github.com/SunXQlab/scMLnet)__ -[R/python]- scMLnet is an R package developed to construct inter-/intracellular multilayer singaling network based on single-cell RNA-seq expression data.
+- __[scTensor](https://github.com/rikenbit/scTensor)__ -[R]- scTensor is a R package for detection of cell-cell interaction using Non-negative Tensor Decomposition.
+- __[COMUNET](https://github.com/ScialdoneLab/COMUNET)__ -[R]- COMUNET uses multiplex networks to represent and cluster all potential communication pathways between cell types.
+- __[iCELLNET](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iCELLNET enables dissection of intercellular communication using the transcriptome-based framework.
+- __[iTALK](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iTALK is an R toolkit for characterizing and illustrating intercellular communication.
+- __[NATMI](https://github.com/forrest-lab/NATMI)__ -[python]- NATMI (Network Analysis Toolkit for Multicellular Interactions) is a Python-based toolkit for multi-cellular communication network construction and network analysis of multispecies single-cell and bulk gene expression and proteomic data.
+- __[PyMINEr](https://bitbucket.org/scottyler892/pyminer_release/src/master/)__ -[python]- PyMINEr can fully automate cell type identification, cell type-specific pathway analyses, graph theory-based analysis of gene regulation, and detection of autocrine-paracrine signaling networks in silico.
+- __[mistyR](https://saezlab.github.io/mistyR/)__ -[R]- mistyR facilitates an in-depth understanding of marker interactions by profiling the intra- and intercellular relationships.
 
 ### Computational tools based on spatially resolved transcriptomic data
 - __[SpaTalk](https://github.com/ZJUFabLab/SpaTalk)__ -[R]- SpaTalk is a spatially resolved cell-cell communication inference method relying on the graph network and knowledge graph to model ligand-receptor-target signaling network for either single-cell or spot-based spatially resolved transcriptomic data, e.g., STARmap, MERFISH, seqFISH, Slide-seq, 10X Visium.
@@ -23,4 +30,4 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[CCPLS](https://github.com/bioinfo-tsukuba/CCPLS)__ -[R]- CCPLS (Cell-Cell communications analysis by Partial Least Square regression modeling) is a statistical framework for identifying cell-cell communications as the effects of multiple neighboring cell types on cell-to-cell expression variability of HVGs, based on the spatial transcriptome data.
 - __[ncem](https://github.com/theislab/ncem)__ -[python]- ncem can learn cell communication from spatial graphs of cells.
 - __[GCNG](https://github.com/xiaoyeye/GCNG)__ -[python]- GCNG uses graph convolutional neural network and spaital transcriptomics data to infer cell-cell interactions.
-
+- __[SCVA](https://github.com/damienArnol/svca)__ -[R/python]- SCVA enables quantifying different dimensions of spatial variation and in particular quantifies the effect of cell-cell interactions on gene expression.
