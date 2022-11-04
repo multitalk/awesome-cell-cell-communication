@@ -26,6 +26,8 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[NATMI](https://github.com/forrest-lab/NATMI)__ -[python]- NATMI (Network Analysis Toolkit for Multicellular Interactions) is a Python-based toolkit for multi-cellular communication network construction and network analysis of multispecies single-cell and bulk gene expression and proteomic data.
 - __[PyMINEr](https://bitbucket.org/scottyler892/pyminer_release/src/master/)__ -[python]- PyMINEr can fully automate cell type identification, cell type-specific pathway analyses, graph theory-based analysis of gene regulation, and detection of autocrine-paracrine signaling networks in silico.
 - __[mistyR](https://saezlab.github.io/mistyR/)__ -[R]- mistyR facilitates an in-depth understanding of marker interactions by profiling the intra- and intercellular relationships.
+- __[LRLoop](https://github.com/Pinlyu3/LRLoop)__ -[R]- LRLoop is a full-featured R package for analyzing LR-Loops from bulk & single-cell RNA-seq data.
+- __[Tensor-cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- Tensor-cell2cell is an unsupervised method using tensor decomposition, which deciphers context-driven intercellular communication by simultaneously accounting for multiple stages, states, or locations of the cells.
 
 ### Computational tools based on spatially resolved transcriptomic data
 - __[SpaTalk](https://github.com/ZJUFabLab/SpaTalk)__ -[R]- SpaTalk is a spatially resolved cell-cell communication inference method relying on the graph network and knowledge graph to model ligand-receptor-target signaling network for either single-cell or spot-based spatially resolved transcriptomic data, e.g., STARmap, MERFISH, seqFISH, Slide-seq, 10X Visium.
@@ -37,3 +39,4 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[GCNG](https://github.com/xiaoyeye/GCNG)__ -[python]- GCNG uses graph convolutional neural network and spaital transcriptomics data to infer cell-cell interactions.
 - __[SCVA](https://github.com/damienArnol/svca)__ -[R/python]- SCVA enables quantifying different dimensions of spatial variation and in particular quantifies the effect of cell-cell interactions on gene expression.
 - __[COMMOT](https://github.com/zcang/COMMOT)__ -[python]- COMMOT uses collective optimal transport to infer CCC in spatial transcriptomics, which accounts for the competition among different ligand and receptor species as well as spatial distances between cells.
+- __[SpatialDM](https://github.com/StatBiomed/SpatialDM)__ -[python]- SpatialDM is a Python package for identifying spatial co-expressed ligand and receptor using Moran's bivariant extension.
