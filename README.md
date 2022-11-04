@@ -1,6 +1,6 @@
 # Cell-cell communication
 
-[![R-python](https://img.shields.io/badge/R%2Fpython-CMD--check-brightgreen?logo=github)](https://github.com/shaoxin0801/Cell-cell-communication/actions) [![DOI](https://zenodo.org/badge/561227113.svg)](https://zenodo.org/badge/latestdoi/561227113) [![jupyter](https://img.shields.io/badge/Computational--tools-cell--cell%20communication-yellow?logo=jupyter)](https://github.com/shaoxin0801/Cell-cell-communication/tree/main/method) [![dockerhub-container](https://img.shields.io/badge/dockerhub-container-yellowgreen?logo=docker)](https://hub.docker.com/repository/docker/shaoxin0801/cell-cell-communication) 
+[![DOI](https://zenodo.org/badge/561227113.svg)](https://zenodo.org/badge/latestdoi/561227113) [![jupyter](https://img.shields.io/badge/Computational--tools-cell--cell%20communication-yellow?logo=jupyter)](https://github.com/shaoxin0801/Cell-cell-communication/tree/main/method) [![dockerhub-container](https://img.shields.io/badge/dockerhub-container-yellowgreen?logo=docker)](https://hub.docker.com/repository/docker/shaoxin0801/cell-cell-communication) 
 
 Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. Please Cite us by "Shao, X., et al. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022) [DOI: 10.5281/zenodo.7277161](https://zenodo.org/record/7277161)".
 
@@ -10,7 +10,6 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[CellChat](https://github.com/sqjin/CellChat)__ -[R]- CellChat enables inference and analysis of cell-cell communication for systematically detecting dysregulated cell-cell communication across biological conditions.
 - __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data
 - __[CellCall](https://github.com/ShellyCoder/cellcall)__ -[R]- CellCall integrates paired ligand-receptor and transcription factor activities for cell-cell communication inference.
-- __[cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- cell2cell is a user-friendly tool to infer cell-cell interactions and communication from gene expression of interacting proteins.
 - __[RSoptSC](https://github.com/mkarikom/RSoptSC)__ -[R]- RSoptSC enables cell-cell communication and lineage inference for scRNA-seq data.
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
 - __[CytoTalk](https://github.com/tanlabcode/CytoTalk)__ -[R]- CytoTalk algorithm is for de novo construction of a signaling network between two cell types using single-cell transcriptomics data.
