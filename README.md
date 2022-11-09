@@ -13,6 +13,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[CellChat](https://github.com/sqjin/CellChat)__ -[R]- CellChat enables inference and analysis of cell-cell communication for systematically detecting dysregulated cell-cell communication across biological conditions.
 - __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data
 - __[CellPhoneDB](https://github.com/Teichlab/cellphonedb)__ -[python]- CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
+- __[CommPath](https://github.com/yingyonghui/CommPath)__ -[R]- CommPath is an R package for inference and analysis of ligand-receptor interactions from single cell RNA sequencing data.
 - __[COMUNET](https://github.com/ScialdoneLab/COMUNET)__ -[R]- COMUNET uses multiplex networks to represent and cluster all potential communication pathways between cell types.
 - __[CrossTalkeR](https://github.com/CostaLab/CrossTalkeR)__ -[R]- CrossTalkeR is a framework for network analysis and visualisation of LR networks. CrossTalkeR identifies relevant ligands, receptors and cell types contributing to changes in cell communication when contrasting two biological states: disease vs. homeostasis.
 - __[CytoTalk](https://github.com/tanlabcode/CytoTalk)__ -[R]- CytoTalk algorithm is for de novo construction of a signaling network between two cell types using single-cell transcriptomics data.
