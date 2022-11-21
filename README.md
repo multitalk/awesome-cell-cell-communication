@@ -33,6 +33,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
 
 ### Computational tools based on spatially resolved transcriptomic data
+- __[BulkSignalR](https://github.com/jcolinge/BulkSignalR)__ -[R]- BulkSignalR is a R package to infer ligand-receptor networks with downstream pathways from bulk data or spatial data (localized bulk data).
 - __[CCPLS](https://github.com/bioinfo-tsukuba/CCPLS)__ -[R]- CCPLS (Cell-Cell communications analysis by Partial Least Square regression modeling) is a statistical framework for identifying cell-cell communications as the effects of multiple neighboring cell types on cell-to-cell expression variability of HVGs, based on the spatial transcriptome data.
 - __[CellPhoneDB](https://github.com/ventolab/CellphoneDB)__ -[python]- CellPhoneDB allows the incorporation of spatial information of the cells to define possible pairs of interacting cells (i.e. pairs of clusters sharing/coexisting in a microenvironment).
 - __[COMMOT](https://github.com/zcang/COMMOT)__ -[python]- COMMOT uses collective optimal transport to infer CCC in spatial transcriptomics, which accounts for the competition among different ligand and receptor species as well as spatial distances between cells.
@@ -44,4 +45,3 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[SpaOTsc](https://github.com/zcang/SpaOTsc)__ -[python]- SpaOTsc can infer space-constrained cell-cell communications, infer spatial distance for intercellular signaling, and construct a spatial map of intercellular gene-gene regulatory information flow.
 - __[SpaTalk](https://github.com/ZJUFanLab/SpaTalk)__ -[R]- SpaTalk is a spatially resolved cell-cell communication inference method relying on the graph network and knowledge graph to model ligand-receptor-target signaling network for either single-cell or spot-based spatially resolved transcriptomic data, e.g., STARmap, MERFISH, seqFISH, Slide-seq, 10X Visium.
 - __[SpatialDM](https://github.com/StatBiomed/SpatialDM)__ -[python]- SpatialDM is a Python package for identifying spatial co-expressed ligand and receptor using Moran's bivariant extension.
-- __[BulkSignalR](https://github.com/jcolinge/BulkSignalR)__ -[R]- BulkSignalR is a R package to infer ligand-receptor networks with downstream pathways from bulk data or spatial data (localized bulk data).
