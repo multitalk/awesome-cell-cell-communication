@@ -31,6 +31,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
 - __[scTensor](https://github.com/rikenbit/scTensor)__ -[R]- scTensor is a R package for detection of cell-cell interaction using Non-negative Tensor Decomposition.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
+- __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
 - __[BulkSignalR](https://github.com/jcolinge/BulkSignalR)__ -[R]- BulkSignalR is a R package to infer ligand-receptor networks with downstream pathways from bulk data or spatial data (localized bulk data).
