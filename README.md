@@ -23,7 +23,9 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[mistyR](https://saezlab.github.io/mistyR/)__ -[R]- mistyR facilitates an in-depth understanding of marker interactions by profiling the intra- and intercellular relationships.
 - __[MEBOCOST](https://github.com/zhengrongbin/MEBOCOST)__ -[python]- MEBOCOST is a Python-based computational tool for inferring metabolite, such as lipid, mediated cell-cell communication events using single-cell RNA-seq data.
 - __[NATMI](https://github.com/forrest-lab/NATMI)__ -[python]- NATMI (Network Analysis Toolkit for Multicellular Interactions) is a Python-based toolkit for multi-cellular communication network construction and network analysis of multispecies single-cell and bulk gene expression and proteomic data.
+- __[NeuronChat](https://github.com/Wei-BioMath/NeuronChat)__ -[R]- The goal of NeuronChat is to infer, visualize and analyze neural-specific cell-cell communication from single cell transcriptomics or spatially resolved transcriptomics data.
 - __[NicheNet](https://github.com/saeyslab/nichenetr)__ -[R]- NicheNet can study intercellular communication from a computational perspective. NicheNet uses human or mouse gene expression data of interacting cells as input and combines this with a prior model that integrates existing knowledge on ligand-to-target signaling paths.
+- __[NICHES](https://github.com/msraredon/NICHES)__ -[R]- Niche Interactions and Cellular Heterogeneity in Extracellular Signaling.
 - __[PyMINEr](https://bitbucket.org/scottyler892/pyminer_release/src/master/)__ -[python]- PyMINEr can fully automate cell type identification, cell type-specific pathway analyses, graph theory-based analysis of gene regulation, and detection of autocrine-paracrine signaling networks in silico.
 - __[RaCInG](https://github.com/SysBioOncology/RaCInG)__ -[python]- RaCInG used patient specific bulk RNA-seq input together with non-patient specific prior knowledge on possible ligand-receptor interactions to reconstruct cell-cell interaction networks in an indivudal patient's tumour.
 - __[RSoptSC](https://github.com/mkarikom/RSoptSC)__ -[R]- RSoptSC enables cell-cell communication and lineage inference for scRNA-seq data.
@@ -32,6 +34,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
 - __[scTensor](https://github.com/rikenbit/scTensor)__ -[R]- scTensor is a R package for detection of cell-cell interaction using Non-negative Tensor Decomposition.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
+- __[SPRUCE]()__ SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
 - __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
@@ -43,7 +46,8 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[GCNG](https://github.com/xiaoyeye/GCNG)__ -[python]- GCNG uses graph convolutional neural network and spaital transcriptomics data to infer cell-cell interactions.
 - __[Giotto](https://github.com/drieslab/Giotto)__ -[R]- Giotto introduces a two-way comparison method to identify interaction changed genes by comparing the gene expression pattern between subsets of cells within the same cell type but surrounded by different neighboring cells.
 - __[ncem](https://github.com/theislab/ncem)__ -[python]- ncem can learn cell communication from spatial graphs of cells.
-- __[NeuronChat](https://github.com/Wei-BioMath/NeuronChat)__ -[R]- NeuronChat is a R package to infer, visualize and analyze neural-specific cell-cell communication from single cell transcriptomics or spatially resolved transcriptomics data.
+- __[NeuronChat](https://github.com/Wei-BioMath/NeuronChat)__ -[R]- The goal of NeuronChat is to infer, visualize and analyze neural-specific cell-cell communication from single cell transcriptomics or spatially resolved transcriptomics data.
+- __[NICHES](https://github.com/msraredon/NICHES)__ -[R]- Niche Interactions and Cellular Heterogeneity in Extracellular Signaling.
 - __[SCVA](https://github.com/damienArnol/svca)__ -[R/python]- SCVA enables quantifying different dimensions of spatial variation and in particular quantifies the effect of cell-cell interactions on gene expression.
 - __[spaCI](https://github.com/QSong-github/spaCI)__ -[python]- spaCI, a novel adaptive graph model with attention mechanisms, incorporates both spatial locations and gene expression profiles of cells to identify the active ligandreceptor signaling axis across neighboring cells.
 - __[SpaOTsc](https://github.com/zcang/SpaOTsc)__ -[python]- SpaOTsc can infer space-constrained cell-cell communications, infer spatial distance for intercellular signaling, and construct a spatial map of intercellular gene-gene regulatory information flow.
