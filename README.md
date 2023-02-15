@@ -32,9 +32,10 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[scCrossTalk](https://github.com/ZJUFanLab/scCrossTalk)__ -[R]- scCrossTalk can find and visulize significant LR pairs between pairwise clusters and significant crosstalk between pairwise clusters for single-cell RNA-seq data.
 - __[scMLnet](https://github.com/SunXQlab/scMLnet)__ -[R/python]- scMLnet is an R package developed to construct inter-/intracellular multilayer singaling network based on single-cell RNA-seq expression data.
 - __[scriabin](https://github.com/BlishLab/scriabin)__ -[R]- scriabin aims to provide a comprehensive view of cell-cell communication at the single-cell level without requiring subsampling or aggregation.
+- __[scTenifoldXct](https://github.com/cailab-tamu/scTenifoldXct)__ -[python]- scTenifoldXct leverages manifold alignment of gene regression networks to detect LR-mediated cell-cell interactions, including (1) weak but biologically important interactions (2) differential interactions between two different samples
 - __[scTensor](https://github.com/rikenbit/scTensor)__ -[R]- scTensor is a R package for detection of cell-cell interaction using Non-negative Tensor Decomposition.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
-- __[SPRUCE]()__ SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
+- __[SPRUCE](https://github.com/causalpathlab/spruceTopic)__ -[python]- SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
 - __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
