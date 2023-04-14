@@ -1,6 +1,6 @@
-# Cell-cell communication
+# awesome-cell-cell-communication
 
-Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. Please Cite us by "Shao, X., et al. Collection of computational tools for cell-cell communication inference for single-cell and spatially resolved omics (2022) [DOI: 10.5281/zenodo.7277161](https://zenodo.org/record/7277161)".
+Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. 
 
 <img src='https://github.com/shaoxin0801/Cell-cell-communication/blob/main/img/Cell-cell%20communication.png'>
 
