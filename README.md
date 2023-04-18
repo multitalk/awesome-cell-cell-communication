@@ -49,6 +49,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[ncem](https://github.com/theislab/ncem)__ -[python]- ncem can learn cell communication from spatial graphs of cells.
 - __[NeuronChat](https://github.com/Wei-BioMath/NeuronChat)__ -[R]- The goal of NeuronChat is to infer, visualize and analyze neural-specific cell-cell communication from single cell transcriptomics or spatially resolved transcriptomics data.
 - __[NICHES](https://github.com/msraredon/NICHES)__ -[R]- Niche Interactions and Cellular Heterogeneity in Extracellular Signaling.
+- __[Renoir](https://github.com/Zafar-Lab/Renoir)__ -[python]- Renoir is an information-theory-based scoring metric for quantifying the activity between a ligand and its target gene given a specific spatial context.
 - __[SCVA](https://github.com/damienArnol/svca)__ -[R/python]- SCVA enables quantifying different dimensions of spatial variation and in particular quantifies the effect of cell-cell interactions on gene expression.
 - __[SpaCET](https://github.com/data2intelligence/SpaCET)__ -[R]- SpaCET is an R package for analyzing cancer spatial transcriptomics (ST) datasets to estimate cell lineage and intercellular interactions in tumor microenvironment.
 - __[spaCI](https://github.com/QSong-github/spaCI)__ -[python]- spaCI, a novel adaptive graph model with attention mechanisms, incorporates both spatial locations and gene expression profiles of cells to identify the active ligandreceptor signaling axis across neighboring cells.
