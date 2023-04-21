@@ -2,8 +2,6 @@
 
 Collection of computational tools for [cell-cell communication inference for single-cell](https://pubmed.ncbi.nlm.nih.gov/32435978/) and spatially resolved omics, including epigenomics, transcriptomics, proteomics, metabolomics, etc. Welcome contribution. Please folk this repository and create a pull request if you have an update. 
 
-<img src='https://github.com/shaoxin0801/Cell-cell-communication/blob/main/img/Cell-cell%20communication.png'>
-
 ### Computational tools based on single-cell transcriptomic data
 - __[CCCExplorer](https://github.com/methodistsmab/CCCExplorer)__ -[Java]- CCCExplorer is a java-based software that predicts and visualizes the gene signaling network to aid research on crosstalk identification in the tumor microenvironment.
 - __[cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- Tensor-cell2cell is an unsupervised method using tensor decomposition, which deciphers context-driven intercellular communication by simultaneously accounting for multiple stages, states, or locations of the cells.
