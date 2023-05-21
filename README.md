@@ -16,7 +16,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[exFINDER](https://github.com/ChanghanGitHub/exFINDER)__ -[R]- exFINDER is a method that identifies external signals (received signals from the external system, exSigNet) in the single-cell transcriptomics datasets by utilizing the prior knowledge of signaling pathways.
 - __[GraphComm](https://github.com/bhklab/GraphComm)__ -[python]- GraphComm is a graph-based deep learning method to predict cell-cell communication in single-cell RNAseq data.
 - __[iCELLNET](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iCELLNET enables dissection of intercellular communication using the transcriptome-based framework.
-- __[iTALK](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iTALK is an R toolkit for characterizing and illustrating intercellular communication.
+- __[iTALK](https://github.com/Coolgenome/iTALK)__ -[R]- iTALK is an R toolkit for characterizing and illustrating intercellular communication.
 - __[LRLoop](https://github.com/Pinlyu3/LRLoop)__ -[R]- LRLoop is a full-featured R package for analyzing LR-Loops from bulk & single-cell RNA-seq data.
 - __[mistyR](https://saezlab.github.io/mistyR/)__ -[R]- mistyR facilitates an in-depth understanding of marker interactions by profiling the intra- and intercellular relationships.
 - __[MEBOCOST](https://github.com/zhengrongbin/MEBOCOST)__ -[python]- MEBOCOST is a Python-based computational tool for inferring metabolite, such as lipid, mediated cell-cell communication events using single-cell RNA-seq data.
