@@ -17,6 +17,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[exFINDER](https://github.com/ChanghanGitHub/exFINDER)__ -[R]- exFINDER is a method that identifies external signals (received signals from the external system, exSigNet) in the single-cell transcriptomics datasets by utilizing the prior knowledge of signaling pathways.
 - __[GraphComm](https://github.com/bhklab/GraphComm)__ -[python]- GraphComm is a graph-based deep learning method to predict cell-cell communication in single-cell RNAseq data.
 - __[iCELLNET](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iCELLNET enables dissection of intercellular communication using the transcriptome-based framework.
+- __[InterCellar](https://github.com/martaint/InterCellar)__ -[R]- InterCellar is an R/Shiny app for interactive analysis and exploration of cell-cell communication based on single-cell transcriptomics data.
 - __[iTALK](https://github.com/Coolgenome/iTALK)__ -[R]- iTALK is an R toolkit for characterizing and illustrating intercellular communication.
 - __[LRLoop](https://github.com/Pinlyu3/LRLoop)__ -[R]- LRLoop is a full-featured R package for analyzing LR-Loops from bulk & single-cell RNA-seq data.
 - __[mistyR](https://saezlab.github.io/mistyR/)__ -[R]- mistyR facilitates an in-depth understanding of marker interactions by profiling the intra- and intercellular relationships.
