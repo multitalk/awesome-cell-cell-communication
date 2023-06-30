@@ -7,9 +7,11 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- Tensor-cell2cell is an unsupervised method using tensor decomposition, which deciphers context-driven intercellular communication by simultaneously accounting for multiple stages, states, or locations of the cells.
 - __[CellCall](https://github.com/ShellyCoder/cellcall)__ -[R]- CellCall integrates paired ligand-receptor and transcription factor activities for cell-cell communication inference.
 - __[CellChat](https://github.com/sqjin/CellChat)__ -[R]- CellChat enables inference and analysis of cell-cell communication for systematically detecting dysregulated cell-cell communication across biological conditions.
+- __[CellComNet](https://github.com/plhhnu/CellComNet)__ -[python]- CellComNet: Integrating potential ligand-receptor interactions and single-cell RAN sequencing data for cell-cell communication inference.
 - __[CellEnBoost](https://github.com/yuanruya/CellEnBoost)__ -[R]- A boosting-based ligand-receptor interaction identification model for cell-to-cell communication inference.
 - __[CellPhoneDB](https://github.com/Teichlab/cellphonedb)__ -[python]- CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
-- __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data
+- __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data.
+- __[CLARIFY](https://github.com/MihirBafna/clarify)__ -[python]- Multi-level Graph Autoencoder (GAE) to clarify cell cell interactions and gene regulatory network inference from spatially resolved transcriptomics.
 - __[CommPath](https://github.com/yingyonghui/CommPath)__ -[R]- CommPath is an R package for inference and analysis of ligand-receptor interactions from single cell RNA sequencing data.
 - __[COMUNET](https://github.com/ScialdoneLab/COMUNET)__ -[R]- COMUNET uses multiplex networks to represent and cluster all potential communication pathways between cell types.
 - __[CrossTalkeR](https://github.com/CostaLab/CrossTalkeR)__ -[R]- CrossTalkeR is a framework for network analysis and visualisation of LR networks. CrossTalkeR identifies relevant ligands, receptors and cell types contributing to changes in cell communication when contrasting two biological states: disease vs. homeostasis.
