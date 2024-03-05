@@ -7,7 +7,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[cell2cell](https://github.com/earmingol/cell2cell)__ -[python]- Tensor-cell2cell is an unsupervised method using tensor decomposition, which deciphers context-driven intercellular communication by simultaneously accounting for multiple stages, states, or locations of the cells.
 - __[CellCall](https://github.com/ShellyCoder/cellcall)__ -[R]- CellCall integrates paired ligand-receptor and transcription factor activities for cell-cell communication inference.
 - __[CellChat](https://github.com/sqjin/CellChat)__ -[R]- CellChat enables inference and analysis of cell-cell communication for systematically detecting dysregulated cell-cell communication across biological conditions.
-- __[CellComNet](https://github.com/plhhnu/CellComNet)__ -[python]- CellComNet: Integrating potential ligand-receptor interactions and single-cell RAN sequencing data for cell-cell communication inference.
+- __[CellComNet](https://github.com/ringsssss/CellComNet)__ -[python]- CellComNet: Integrating potential ligand-receptor interactions and single-cell RAN sequencing data for cell-cell communication inference.
 - __[CellDialog](https://github.com/plhhnu/CellDialog)__ -[python]- CellDialog: reconstruct an intercellular connectivity network based on the combined expression of ligands and receptors involved in sender and receiver cells.
 - __[CellEnBoost](https://github.com/yuanruya/CellEnBoost)__ -[R]- A boosting-based ligand-receptor interaction identification model for cell-to-cell communication inference.
 - __[CellPhoneDB](https://github.com/Teichlab/cellphonedb)__ -[python]- CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
