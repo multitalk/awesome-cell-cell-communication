@@ -74,7 +74,7 @@ Collection of computational tools for [cell-cell communication inference for sin
 - __[stMLnet](https://github.com/SunXQlab/stMLnet)__ -[R]- stMLnet is a tool to infer spatial intercellular communication and multilayer signaling regulations from spatial transcriptomic data (ST) by quantifying distance-weighted ligand–receptor (LR) signaling activity based on diffusion and mass action models and mapping it to intracellular targets.
 
 ### Reviews
-- __[2020, Protein Cell]__ __[New avenues for systematically inferring cell-cell communication: through single-cell transcriptomics data](https://pubmed.ncbi.nlm.nih.gov/32435978/)__.
-- __[2021, Nat Rev Genet]__ __[Deciphering cell-cell interactions and communication from gene expression](https://pubmed.ncbi.nlm.nih.gov/33168968/)__.
-- __[2021, Nat Rev Genet]__ __[Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics](https://pubmed.ncbi.nlm.nih.gov/34145435/)__.
-- __[2024, Nat Rev Genet]__ __[The diversification of methods for studying cell-cell interactions and communication](https://pubmed.ncbi.nlm.nih.gov/38238518/)__.
+- __[2020, Protein Cell](https://pubmed.ncbi.nlm.nih.gov/32435978/)__ New avenues for systematically inferring cell-cell communication: through single-cell transcriptomics data.
+- __[2021, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/33168968/)__ Deciphering cell-cell interactions and communication from gene expression].
+- __[2021, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/34145435/)__ Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics.
+- __[2024, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/38238518/)__ The diversification of methods for studying cell-cell interactions and communication.
