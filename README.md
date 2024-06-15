@@ -75,6 +75,6 @@ Collection of computational tools for [cell-cell communication inference for sin
 
 ### Reviews
 - __[2020, Protein Cell](https://pubmed.ncbi.nlm.nih.gov/32435978/)__ New avenues for systematically inferring cell-cell communication: through single-cell transcriptomics data.
-- __[2021, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/33168968/)__ Deciphering cell-cell interactions and communication from gene expression].
+- __[2021, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/33168968/)__ Deciphering cell-cell interactions and communication from gene expression.
 - __[2021, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/34145435/)__ Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics.
 - __[2024, Nat Rev Genet](https://pubmed.ncbi.nlm.nih.gov/38238518/)__ The diversification of methods for studying cell-cell interactions and communication.
