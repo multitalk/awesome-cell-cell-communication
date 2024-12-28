@@ -16,11 +16,13 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[CLARIFY](https://github.com/MihirBafna/clarify)__ -[python]- Multi-level Graph Autoencoder (GAE) to clarify cell cell interactions and gene regulatory network inference from spatially resolved transcriptomics.
 - __[CommPath](https://github.com/yingyonghui/CommPath)__ -[R]- CommPath is an R package for inference and analysis of ligand-receptor interactions from single cell RNA sequencing data.
 - __[COMUNET](https://github.com/ScialdoneLab/COMUNET)__ -[R]- COMUNET uses multiplex networks to represent and cluster all potential communication pathways between cell types.
+- __[CrossChat](https://github.com/Xinyiw28/CrossChat)__ -[python]- CrossChat can detect global and local hierarchical structures in cell-cell communication.
 - __[CrossTalkeR](https://github.com/CostaLab/CrossTalkeR)__ -[R]- CrossTalkeR is a framework for network analysis and visualisation of LR networks. CrossTalkeR identifies relevant ligands, receptors and cell types contributing to changes in cell communication when contrasting two biological states: disease vs. homeostasis.
 - __[CytoTalk](https://github.com/tanlabcode/CytoTalk)__ -[R]- CytoTalk algorithm is for de novo construction of a signaling network between two cell types using single-cell transcriptomics data.
 - __[DcjComm](https://github.com/Ginnay/DcjComm)__ -[R]- DcjComm jointly performs dimension reduction, clustering and communication network inference for single-cell transcriptomics.
 - __[DIISCO](https://github.com/azizilab/DIISCO_public)__ -[python]- DIISCO is a Bayesian framework for inferring dynamic intercellular interactions from time-series single-cell data.
 - __[exFINDER](https://github.com/ChanghanGitHub/exFINDER)__ -[R]- exFINDER is a method that identifies external signals (received signals from the external system, exSigNet) in the single-cell transcriptomics datasets by utilizing the prior knowledge of signaling pathways.
+- __[FlowSig](https://github.com/axelalmet/flowsig)__ -[python]- FlowSig can find communication-driven intercellular flows from single-cell RNA-sequencing and spatial transcriptomics data.
 - __[GraphComm](https://github.com/bhklab/GraphComm)__ -[python]- GraphComm is a graph-based deep learning method to predict cell-cell communication in single-cell RNAseq data.
 - __[iCELLNET](https://github.com/soumelis-lab/ICELLNET)__ -[R]- iCELLNET enables dissection of intercellular communication using the transcriptome-based framework.
 - __[InterCellar](https://github.com/martaint/InterCellar)__ -[R]- InterCellar is an R/Shiny app for interactive analysis and exploration of cell-cell communication based on single-cell transcriptomics data.
@@ -38,6 +40,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[RaCInG](https://github.com/SysBioOncology/RaCInG)__ -[python]- RaCInG used patient specific bulk RNA-seq input together with non-patient specific prior knowledge on possible ligand-receptor interactions to reconstruct cell-cell interaction networks in an indivudal patient's tumour.
 - __[RSoptSC](https://github.com/mkarikom/RSoptSC)__ -[R]- RSoptSC enables cell-cell communication and lineage inference for scRNA-seq data.
 - __[scCrossTalk](https://github.com/ZJUFanLab/scCrossTalk)__ -[R]- scCrossTalk can find and visulize significant LR pairs between pairwise clusters and significant crosstalk between pairwise clusters for single-cell RNA-seq data.
+- __[scDCA](https://github.com/jiboyalab/scDCA)__ -[python]- scDCA is a toolkit to decipher the dominant cell communication assembly with specific functional influence by utilizing multi-view graph attention network.
 - __[scDiffCom](https://github.com/CyrilLagger/scDiffCom)__ -[R]- scDiffCom stands for “single-cell Differential Communication” and infers changes in intercellular communication between two biological conditions from scRNA-seq data.
 - __[scHyper](https://github.com/Lwyonly/scHyper)__ -[python]-  scHyper can decode context-driven intercellular communication from scRNA-seq data by constructing hypergraph networks and applying hypergraph neural network models.
 - __[scMLnet](https://github.com/SunXQlab/scMLnet)__ -[R/python]- scMLnet is an R package developed to construct inter-/intracellular multilayer singaling network based on single-cell RNA-seq expression data.
@@ -78,6 +81,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[SpatialDM](https://github.com/StatBiomed/SpatialDM)__ -[python]- SpatialDM is a Python package for identifying spatial co-expressed ligand and receptor using Moran's bivariant extension.
 - __[STcomm](https://github.com/gpenglab/STcomm)__ -[R]- an R package to illustrate the spatially resolved cell interactions by combined the spatial cellular colocalization with their enriched ligand-receptor co-expression patterns inferred from both spatial and single-cell transcriptomic data.
 - __[stMLnet](https://github.com/SunXQlab/stMLnet)__ -[R]- stMLnet is a tool to infer spatial intercellular communication and multilayer signaling regulations from spatial transcriptomic data (ST) by quantifying distance-weighted ligand–receptor (LR) signaling activity based on diffusion and mass action models and mapping it to intracellular targets.
+- __[VGAECCI](https://github.com/zhangxiangz/VGAECCI)__ -[python]- VGAE-CCI, a deep learning framework based on the Variational Graph Autoencoder, is capable of identifying cell–cell communication across multiple tissue layers.
 
 ### Reviews
 - __[2020, Protein Cell](https://pubmed.ncbi.nlm.nih.gov/32435978/)__ New avenues for systematically inferring cell-cell communication: through single-cell transcriptomics data.
