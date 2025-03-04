@@ -10,7 +10,8 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[CellComNet](https://github.com/ringsssss/CellComNet)__ -[python]- CellComNet: Integrating potential ligand-receptor interactions and single-cell RAN sequencing data for cell-cell communication inference.
 - __[CellDialog](https://github.com/plhhnu/CellDialog)__ -[python]- CellDialog: reconstruct an intercellular connectivity network based on the combined expression of ligands and receptors involved in sender and receiver cells.
 - __[CellEnBoost](https://github.com/yuanruya/CellEnBoost)__ -[R]- A boosting-based ligand-receptor interaction identification model for cell-to-cell communication inference.
-- __[CellGiQ](https://github.com/plhhnu/CellGiQ)__ -[python]- CellGiQ is a a novel framework for deciphering ligand-receptor-mediated cell-cell communication by incorporating machine learning and a quartile scoring strategy. 
+- __[CellGiQ](https://github.com/plhhnu/CellGiQ)__ -[python]- CellGiQ is a a novel framework for deciphering ligand-receptor-mediated cell-cell communication by incorporating machine learning and a quartile scoring strategy.
+- __[CellMsg](https://github.com/pengsl-lab/CellMsg)__ -[python]- CellMsg uses graph convolutional networks to analyze ligand-receptor-mediated cell-cell communication fpr scRNA-seq data
 - __[CellPhoneDB](https://github.com/Teichlab/cellphonedb)__ -[python]- CellPhoneDB is a publicly available repository of curated receptors, ligands and their interactions.
 - __[celltalker](https://github.com/arc85/celltalker)__ -[R]- celltalker can infer putative ligand and receptor interactions from single-cell RNAseq data.
 - __[CLARIFY](https://github.com/MihirBafna/clarify)__ -[python]- Multi-level Graph Autoencoder (GAE) to clarify cell cell interactions and gene regulatory network inference from spatially resolved transcriptomics.
