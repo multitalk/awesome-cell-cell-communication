@@ -53,9 +53,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[SEnSCA](https://github.com/plhhnu/SEnSCA)__ -[python]- SEnSCA is an innovative framework for unraveling the intricate network of cell-cell communication mediated by ligand-receptor interactions.
 - __[Single-Cell MALDI-MSI](https://doi.org/10.1021/acs.analchem.5c00384)__ -[NA]- Single-Cell MALDI-MSI can be used for the characterization of cell-cell metabolic interactions.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
-- __[SOAPy](https://github.com/LiHongCSBLab/SOAPy)__ -[python]- SOAPy offers methods for spatial domain identification, spatial expression tendency, spatiotemporal expression pattern, cellular co-localization, multi-cellular niches, cell-cell communication.
 - __[SPRUCE](https://github.com/causalpathlab/spruceTopic)__ -[python]- SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
-- __[STopover](https://github.com/bsungwoo/STopover)__ -[python]- STopover can capture spatial colocalization and interaction in the tumor microenvironment using topological analysis in spatial transcriptomics data.
 - __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
@@ -77,6 +75,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[NICHES](https://github.com/msraredon/NICHES)__ -[R]- Niche Interactions and Cellular Heterogeneity in Extracellular Signaling.
 - __[Renoir](https://github.com/Zafar-Lab/Renoir)__ -[python]- Renoir is an information-theory-based scoring metric for quantifying the activity between a ligand and its target gene given a specific spatial context.
 - __[SCVA](https://github.com/damienArnol/svca)__ -[R/python]- SCVA enables quantifying different dimensions of spatial variation and in particular quantifies the effect of cell-cell interactions on gene expression.
+- __[SOAPy](https://github.com/LiHongCSBLab/SOAPy)__ -[python]- SOAPy offers methods for spatial domain identification, spatial expression tendency, spatiotemporal expression pattern, cellular co-localization, multi-cellular niches, cell-cell communication.
 - __[SpaCET](https://github.com/data2intelligence/SpaCET)__ -[R]- SpaCET is an R package for analyzing cancer spatial transcriptomics (ST) datasets to estimate cell lineage and intercellular interactions in tumor microenvironment.
 - __[spaCI](https://github.com/QSong-github/spaCI)__ -[python]- spaCI, a novel adaptive graph model with attention mechanisms, incorporates both spatial locations and gene expression profiles of cells to identify the active ligandreceptor signaling axis across neighboring cells.
 - __[Spacia](https://github.com/yunguan-wang/Spacia)__ -[python]- Spacia employs a Bayesian multi-instance learning (MIL) framework to assess intercellular communication between cells and their neighbors.
@@ -86,6 +85,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[SpatialDM](https://github.com/StatBiomed/SpatialDM)__ -[python]- SpatialDM is a Python package for identifying spatial co-expressed ligand and receptor using Moran's bivariant extension.
 - __[STcomm](https://github.com/gpenglab/STcomm)__ -[R]- an R package to illustrate the spatially resolved cell interactions by combined the spatial cellular colocalization with their enriched ligand-receptor co-expression patterns inferred from both spatial and single-cell transcriptomic data.
 - __[stMLnet](https://github.com/SunXQlab/stMLnet)__ -[R]- stMLnet is a tool to infer spatial intercellular communication and multilayer signaling regulations from spatial transcriptomic data (ST) by quantifying distance-weighted ligand–receptor (LR) signaling activity based on diffusion and mass action models and mapping it to intracellular targets.
+- __[STopover](https://github.com/bsungwoo/STopover)__ -[python]- STopover can capture spatial colocalization and interaction in the tumor microenvironment using topological analysis in spatial transcriptomics data.
 - __[VGAECCI](https://github.com/zhangxiangz/VGAECCI)__ -[python]- VGAE-CCI, a deep learning framework based on the Variational Graph Autoencoder, is capable of identifying cell–cell communication across multiple tissue layers.
 
 ### Reviews
