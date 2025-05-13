@@ -51,8 +51,11 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[scTensor](https://github.com/rikenbit/scTensor)__ -[R]- scTensor is a R package for detection of cell-cell interaction using Non-negative Tensor Decomposition.
 - __[SEGCECO](https://github.com/sheenahora/SEGCECO)__ -[python]- SEGCECO is a method for subgraph embedding of gene expression matrix for prediction of cell-cell communication.
 - __[SEnSCA](https://github.com/plhhnu/SEnSCA)__ -[python]- SEnSCA is an innovative framework for unraveling the intricate network of cell-cell communication mediated by ligand-receptor interactions.
+- __[Single-Cell MALDI-MSI](https://doi.org/10.1021/acs.analchem.5c00384)__ -[NA]- Single-Cell MALDI-MSI can be used for the characterization of cell-cell metabolic interactions.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
+- __[SOAPy](https://github.com/LiHongCSBLab/SOAPy)__ -[python]- SOAPy offers methods for spatial domain identification, spatial expression tendency, spatiotemporal expression pattern, cellular co-localization, multi-cellular niches, cell-cell communication.
 - __[SPRUCE](https://github.com/causalpathlab/spruceTopic)__ -[python]- SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
+- __[STopover](https://github.com/bsungwoo/STopover)__ -[python]- STopover can capture spatial colocalization and interaction in the tumor microenvironment using topological analysis in spatial transcriptomics data.
 - __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
