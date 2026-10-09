@@ -54,6 +54,7 @@ Collection of computational tools for cell-cell communication inference for sing
 - __[Single-Cell MALDI-MSI](https://doi.org/10.1021/acs.analchem.5c00384)__ -[NA]- Single-Cell MALDI-MSI can be used for the characterization of cell-cell metabolic interactions.
 - __[SingleCellSignalR](https://github.com/SCA-IRCM/SingleCellSignalR)__ -[R]- SingleCellSignalR is a R package to study Cell Signaling Using Single Cell RNAseq Data.
 - __[SPRUCE](https://github.com/causalpathlab/spruceTopic)__ -[python]- SPRUCE is designed to systematically ascertain common cell-cell communication patterns embedded in single-cell RNA-seq data.
+- __[STACCato](https://github.com/daiqile96/STACCato)__ -[R]- Supervised Tensor Analysis tool for studying Cell-cell Communication using scRNA-seq data across multiple samples and conditions, which identifies CCC events and estimates the effects of biological conditions (e.g., disease status, tissue types) on such events, while adjusting for potential confounders
 - __[TraSig](https://github.com/doraadong/TraSig)__ -[python]- TraSig (Trajectory-based Signalling genes inference) identifies interacting cell types pairs and significant ligand-receptors based on the expression of genes as well as the pseudo-time ordering of cells. 
 
 ### Computational tools based on spatially resolved transcriptomic data
